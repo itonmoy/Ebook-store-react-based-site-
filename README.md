@@ -1,3 +1,9 @@
+### eBook Store The react based website 
+The live site link (https://ebook-store-by-ts.netlify.app/)
+## eBook Store website for buying books
+- You can select different programming books from here 
+- someone can select their fav author's book 
+- someone can cart the books and watch the total price of his selective books
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

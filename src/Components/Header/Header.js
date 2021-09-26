@@ -18,7 +18,8 @@ const Header = () => {
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
                     <button class="btn btn-outline-success" type="submit">Search</button>
                     </form>
-                    <h3 className="container header-text mt-3">eBOOK STORE WHERE YOU WILL GET ALL THE BOOKS</h3>
+                    <h3 className="container header-text mt-3">eBOOK STORE WHERE YOU WILL GET ALL THE BOOKS <br /> Budget: $2000 </h3>
+
                 </div>
             </nav>
             <div className="container bg-light">
