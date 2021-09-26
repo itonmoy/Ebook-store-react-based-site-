@@ -1,3 +1,10 @@
+body{
+  background-image:url('/src/images/cover3.jpg');
+  background-position:inherit;
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .App {
   text-align: center;
 }
